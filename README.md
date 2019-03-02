@@ -1,1 +1,1 @@
-Implemented search functionality using PetFinder's API
+Implementing search functionality wit Pet Finder's API to find new pet (React/Node)
